@@ -109,8 +109,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:047690_0000_1023E559D534D928"/>
-            <pb facs="tcp:047690_0001_102441DB2AEEA960" rendition="simple:additions"/>
+            <pb facs="unknown:047690_0000_1023E559D534D928"/>
+            <pb facs="unknown:047690_0001_102441DB2AEEA960"
+                rendition="simple:additions"/>
             <p>Winter Evenings Amuſement, OR, JOVIAL COMPANION. CONTAINING A CHOICE SELECTION OF SONGS, MUCH ADMIRED. And Sung at moſt genteel Places of Amuſement.</p>
             <p>
                <hi>Boſton.</hi> 
@@ -123,7 +124,8 @@
                </gap> Street. 1795.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:047690_0002_102441DE370B6670" rendition="simple:additions"/>
+            <pb facs="unknown:047690_0002_102441DE370B6670"
+                rendition="simple:additions"/>
             <head>CONTENTS.</head>
             <list>
                <item>The Marſeilles Hymn.</item>
@@ -168,7 +170,8 @@
       </front>
       <body>
          <div type="songs">
-            <pb facs="tcp:047690_0002_102441DE370B6670" rendition="simple:additions"/>
+            <pb facs="unknown:047690_0002_102441DE370B6670"
+                rendition="simple:additions"/>
             <head>THE Winter Evenings Amuſement.</head>
             <div type="song">
                <head>The Marſeilles Hymn.</head>
@@ -205,7 +208,7 @@
                   <l>While lawleſs ſee, with guilty pride,</l>
                </lg>
                <lg>
-                  <pb n="4" facs="tcp:047690_0003_102441DFB9AC8AA8"/>
+                  <pb n="4" facs="unknown:047690_0003_102441DFB9AC8AA8"/>
                   <l>Sorends deſolation far and wide,</l>
                   <l>With crimes and blood his hands embruing.</l>
                   <l>To arms, to arms, ye brave!</l>
@@ -254,7 +257,7 @@
                </lg>
             </div>
             <div type="song">
-               <pb n="5" facs="tcp:047690_0003_102441DFB9AC8AA8"/>
+               <pb n="5" facs="unknown:047690_0003_102441DFB9AC8AA8"/>
                <head>Shakeſpeare's ſeven Ages parapisras'd</head>
                <byline>[Written by Collins, for Evening Bruſh.]</byline>
                <lg>
@@ -294,7 +297,7 @@
                   <l>And ſatchel on his back,</l>
                   <l>To ſchool, alas! muſt pack;</l>
                   <l>
-                     <pb n="6" facs="tcp:047690_0004_102441E390012330"/>
+                     <pb n="6" facs="unknown:047690_0004_102441E390012330"/>
 But like a ſnail he creeps,</l>
                   <l>And for bloody Mondy weeps.</l>
                   <l>All to fill, &amp;c.</l>
@@ -350,7 +353,7 @@ But like a ſnail he creeps,</l>
                   <l>High down, ho down, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="7" facs="tcp:047690_0004_102441E390012330"/>
+                  <pb n="7" facs="unknown:047690_0004_102441E390012330"/>
                   <l>Then the juſtice in his chair,</l>
                   <l>With broad and vacant ſtare,</l>
                   <l>His wig of formal cut,</l>
@@ -393,7 +396,7 @@ But like a ſnail he creeps,</l>
                   <l>Then the coffin,</l>
                   <l>We move oft in,</l>
                   <l>
-                     <pb n="8" facs="tcp:047690_0005_102441E59971AFE8"/>
+                     <pb n="8" facs="unknown:047690_0005_102441E59971AFE8"/>
 While the bell</l>
                   <l>Tolls the knell.</l>
                   <l>Of high, and low, down into the cold ground</l>
@@ -452,7 +455,7 @@ While the bell</l>
                         <desc>•</desc>
                      </gap>ms,</l>
                   <l>
-                     <pb n="9" facs="tcp:047690_0005_102441E59971AFE8"/>
+                     <pb n="9" facs="unknown:047690_0005_102441E59971AFE8"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>reſh enjoyments wanton courting,</l>
@@ -542,7 +545,7 @@ While the bell</l>
                      </gap>only that will ſave us now.</l>
                </lg>
                <lg>
-                  <pb n="10" facs="tcp:047690_0006_102441E823878CF0"/>
+                  <pb n="10" facs="unknown:047690_0006_102441E823878CF0"/>
                   <l>Over the lee beam lies the land, boys,</l>
                   <l>Let the guns be over-board thrown;</l>
                   <l>To the pumps come every hand, boys,</l>
@@ -597,7 +600,7 @@ While the bell</l>
                </gap>
             </div>
             <div type="song">
-               <pb n="13" facs="tcp:047690_0006_102441E823878CF0"/>
+               <pb n="13" facs="unknown:047690_0006_102441E823878CF0"/>
                <head>She dropt a Tear, and cry'd be True.</head>
                <lg>
                   <l>THE ling'ring winds that feebly blow,</l>
@@ -666,7 +669,7 @@ While the bell</l>
                         <desc>••</desc>
                      </gap>d waft me to my love.</l>
                   <l>
-                     <pb n="14" facs="tcp:047690_0007_102441E9B4446AB8"/>
+                     <pb n="14" facs="unknown:047690_0007_102441E9B4446AB8"/>
 Moor'd in her arms to toils adieu,</l>
                   <l>If ſtill I find my Mary true.</l>
                </lg>
@@ -710,7 +713,7 @@ Moor'd in her arms to toils adieu,</l>
                   <l>Will Gaſte, by death was ta'en aback,</l>
                   <l>I came to bring the news,</l>
                   <l>
-                     <pb n="15" facs="tcp:047690_0007_102441E9B4446AB8"/>
+                     <pb n="15" facs="unknown:047690_0007_102441E9B4446AB8"/>
 Poll, whimper'd ſore, but what did Jack</l>
                   <l>Why ſtood in William's ſhoes,</l>
                   <l>The run—I chac'd, and in the end;</l>
@@ -751,7 +754,7 @@ Poll, whimper'd ſore, but what did Jack</l>
                   <l>When Jack, as with his meſſmates dear;</l>
                   <l>He ſhared the grog, their hearts to cheer,</l>
                   <l>
-                     <pb n="16" facs="tcp:047690_0008_102441ED3A67E780"/>
+                     <pb n="16" facs="unknown:047690_0008_102441ED3A67E780"/>
 Took from his 'bacco box a quid,</l>
                   <l>And ſpelled for comfort on the lid—</l>
                   <l>If you love me as I love you,</l>
@@ -800,7 +803,7 @@ Took from his 'bacco box a quid,</l>
                      </gap> big as a Dorcheſtor but,</l>
                </lg>
                <lg>
-                  <pb n="17" facs="tcp:047690_0008_102441ED3A67E780"/>
+                  <pb n="17" facs="unknown:047690_0008_102441ED3A67E780"/>
                   <l>His body, when long in the ground it had lain,</l>
                   <l>And time, into clay had diſſolv'd it again,</l>
                   <l>
@@ -857,7 +860,7 @@ Took from his 'bacco box a quid,</l>
                </div>
             </div>
             <div type="song">
-               <pb n="18" facs="tcp:047690_0009_102441EF649595D8"/>
+               <pb n="18" facs="unknown:047690_0009_102441EF649595D8"/>
                <head>Sandy's Ghoſt.</head>
                <l>WHEN Mary heard young Sandy's tale</l>
                <l>And ſlumb'ring ſaw his death-like ſhade,</l>
@@ -896,7 +899,7 @@ Took from his 'bacco box a quid,</l>
                <l>Sandy, I ceaſe to weep for thee.</l>
             </div>
             <div type="song">
-               <pb n="19" facs="tcp:047690_0009_102441EF649595D8"/>
+               <pb n="19" facs="unknown:047690_0009_102441EF649595D8"/>
                <head>The Batchelor Married.</head>
                <lg>
                   <l>COME all you merry Bachelors,</l>
@@ -975,7 +978,7 @@ Took from his 'bacco box a quid,</l>
                         <desc>••••</desc>
                      </gap>y of that pound of tow,</l>
                   <l>
-                     <pb n="20" facs="tcp:047690_0010_102441F2A2C19D10"/>
+                     <pb n="20" facs="unknown:047690_0010_102441F2A2C19D10"/>
 I wiſh it ne'er begun;</l>
                   <l>I'm afraid my wife <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
@@ -1022,7 +1025,7 @@ I wiſh it ne'er begun;</l>
                   <l>Then commend me to ſome country laſs,</l>
                   <l>That can both waſh and wring,</l>
                   <l>
-                     <pb n="21" facs="tcp:047690_0010_102441F2A2C19D10"/>
+                     <pb n="21" facs="unknown:047690_0010_102441F2A2C19D10"/>
 Can do all kinds of country work,</l>
                   <l>Will hatchel, card and ſpin,</l>
                   <l>And weed potatoes, flux and corn,</l>
@@ -1064,7 +1067,7 @@ Can do all kinds of country work,</l>
                   <l>O dear, what can the matter be?</l>
                   <l>Dear, dear, what can the matter be,</l>
                   <l>
-                     <pb n="22" facs="tcp:047690_0011_1023E5584B5AA1A8"/>
+                     <pb n="22" facs="unknown:047690_0011_1023E5584B5AA1A8"/>
 O dear, what can the matter be?</l>
                   <l>Johnny's ſo long at the fair.</l>
                </lg>
@@ -1108,7 +1111,7 @@ O dear, what can the matter be?</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="23" facs="tcp:047690_0011_1023E5584B5AA1A8"/>
+               <pb n="23" facs="unknown:047690_0011_1023E5584B5AA1A8"/>
                <head>The dying Lover</head>
                <lg>
                   <l>WHEN late I wander'd o'er the plain,</l>
@@ -1156,7 +1159,7 @@ O dear, what can the matter be?</l>
                   <l>RAIL no more, ye learned aſſes,</l>
                   <l>Gainſt the joy the bowl ſupplies;</l>
                   <l>
-                     <pb n="24" facs="tcp:047690_0012_102441F8A8059330"/>
+                     <pb n="24" facs="unknown:047690_0012_102441F8A8059330"/>
 Sound its depth, and fill your glaſſes,</l>
                   <l>Wiſdom at the bottom lies:</l>
                   <l>Fill 'em higher ſtill, and higher,</l>
